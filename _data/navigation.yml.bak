@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/HectorHHZ/HectorHHZ.github.io/documents/Haoze HE - resume.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
