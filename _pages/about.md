@@ -19,12 +19,17 @@ Educaton
 News
 ======
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 2022-11: [Open-source](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)  a  general framework to implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. The paper with novel distributed SGD optimizer will be submitted to ICML. 
+- 2022-10: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
+- 2022-10: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+- 2022-9: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizer for decentralized distributed machine learning systems.
+
+- 2022-5: I started working with Prof. Dube Parijat. He is an adjunct professor at New York University and Columbia University. He is a research staff in IBM. Our research focuses on distributed machine learning systems. 
+
+- 2021-11: [One paper](https://www.sciencedirect.com/science/article/pii/S0010482522001044) submitted and accepted by Computers in Biology and Medicine.
+
+- 2020-10: I started working with Prof. [David Zhang](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAA), doing research about applied machine learning for health care.
 
 Site-wide configuration
 ------
