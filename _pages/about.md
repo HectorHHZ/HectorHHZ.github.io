@@ -29,7 +29,7 @@ News
 
 - 2021-11: [One paper](https://www.sciencedirect.com/science/article/pii/S0010482522001044) submitted and accepted by Computers in Biology and Medicine.
 
-- 2020-10: I started working with Prof. [[‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ)](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAA), doing research about applied machine learning for health care.
+- 2020-10: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), doing research about applied machine learning for health care.
 
 Site-wide configuration
 ------
