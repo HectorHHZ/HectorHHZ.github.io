@@ -34,12 +34,3 @@ Educaton
   - Current GPA: 3.9/4.0, Rank: top3%
 - B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
-
-
-```
-[comment]: <Example: editing a markdown file for a talk>
-[Editing a markdown file for a talk](/images/editing-talk.png)
-```
-
-
-
