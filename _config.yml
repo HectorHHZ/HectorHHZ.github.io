@@ -85,7 +85,7 @@ author:
   bio              : "New York University Master Student Majoring in Computer Engineering"
   location         : "New York City, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6LBY7CayR3kQN_KXNUNB3dxyBw3zzy--Xu_F5NDyeftWOCZPQKIYG03NvIoSvSqn6OTx7WnXxnH577kB_ONRqItS9oDo_8CGgpN7rlRLSwecJE6cg&user=PKGTBOcAAAAJ"
   email            : "hh2537@nyu.edu"
   #resume           : "https://github.com/HectorHHZ/HectorHHZ.github.io/documents/Haoze HE - resume.pdf"
