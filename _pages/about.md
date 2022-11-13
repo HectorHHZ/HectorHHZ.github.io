@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student at New York University majoring in Computer Engineering. I worked with Prof. Anna Choromanska and Prof. Dube Parijat. Previously, I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) advised by Prof. David Zhang and Prof. Rui Huang. My research mainly focuses on accelerating the convergence speed of distributed machine learning systems using novel system schemes and machine learning methods. I will graduate from NYU in May 2023 and intend to apply for Ph.D. ECE/CS programs.
+I am currently a second-year master's student at New York University majoring in Computer Engineering. I worked with Prof. Anna Choromanska and Prof. Dube Parijat. Previously, I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) advised by Prof. David Zhang and Prof. Rui Huang. My research interests are distributed machine learning/ applied machine learning/ federated machine learning. Currently, My research mainly focuses on accelerating the convergence speed of distributed machine learning systems using novel system schemes and machine learning methods. I will graduate from NYU in May 2023 and intend to apply for Ph.D. ECE/CS programs.
 
 Educaton
 ======
 - M.S. in Computer Engineering at New York University, 2020
---- Current GPA: 3.889/4.0, Rank: top3%
+  - Current GPA: 3.9/4.0, Rank: top3%
 - B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
+News
 ======
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
