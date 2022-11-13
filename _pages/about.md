@@ -10,11 +10,7 @@ redirect_from:
 
 I am currently a second-year master's student at New York University majoring in Computer Engineering. I worked with Prof. Anna Choromanska and Prof. Dube Parijat. Previously, I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) advised by Prof. David Zhang and Prof. Rui Huang. My research interests are distributed machine learning/ applied machine learning/ federated machine learning. Currently, My research mainly focuses on accelerating the convergence speed of distributed machine learning systems using novel system schemes and machine learning methods. I will graduate from NYU in May 2023 and intend to apply for Ph.D. ECE/CS programs.
 
-Educaton
-======
-- M.S. in Computer Engineering at New York University, 2020
-  - Current GPA: 3.9/4.0, Rank: top3%
-- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
+
 
 News
 ======
@@ -31,9 +27,12 @@ News
 
 - 2020-10: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), doing research about applied machine learning for health care.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Educaton
+======
+
+- M.S. in Computer Engineering at New York University, 2020
+  - Current GPA: 3.9/4.0, Rank: top3%
+- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
 Create content & metadata
 ------
