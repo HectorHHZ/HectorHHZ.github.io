@@ -41,17 +41,6 @@ Publications
 
 
 
-Educaton
-======
-
-- M.S. in Computer Engineering at New York University, 2020
-  - Current GPA: 3.9/4.0, Rank: top3%
-- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
-
-
-
-
-
 Open-Source Resources
 ======
 
@@ -61,4 +50,11 @@ Open-Source Resources
 
 
 
+
+Educaton
+======
+
+- M.S. in Computer Engineering at New York University, 2020
+  - Current GPA: 3.9/4.0, Rank: top3%
+- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
