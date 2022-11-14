@@ -41,16 +41,6 @@ Publications
 
 
 
-Open-Source Resources
-======
-
-- Built an **open-source/general [framework]((https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD))** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
-- Build an **open-source [website]([HectorHHZ/NYU-Course-Schedule (github.com)](https://github.com/HectorHHZ/NYU-Course-Schedule))** for NYU EECS/DS community and help **150+** NYU students **each semester**. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcomed to fork and contribute!
-
-
-
-
-
 Education
 ======
 
@@ -58,3 +48,12 @@ Education
   - Current GPA: 3.9/4.0, Rank: top3%
 - B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
+
+
+
+
+Open-Source Resources
+======
+
+- Built an **open-source/general [framework]((https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD))** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
+- Build an **open-source [website]([HectorHHZ/NYU-Course-Schedule (github.com)](https://github.com/HectorHHZ/NYU-Course-Schedule))** for NYU EECS/DS community and help **150+** NYU students **each semester**. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcomed to fork and contribute!
