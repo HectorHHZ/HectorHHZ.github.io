@@ -51,7 +51,7 @@ Open-Source Resources
 
 
 
-Educaton
+Education
 ======
 
 - M.S. in Computer Engineering at New York University, 2020
