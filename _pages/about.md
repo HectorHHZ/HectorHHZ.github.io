@@ -23,7 +23,7 @@ News
 - 2022-9: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizers for decentralized distributed machine learning systems.
 - 2022-5: I started working with Prof. [Dube Parijat](https://www.linkedin.com/in/parijatdube/). He is an adjunct professor at New York University and Columbia University. He is a research staff in IBM. Our research focuses on distributed machine learning systems. 
 - 2021-11: [One paper](https://www.sciencedirect.com/science/article/pii/S0010482522001044) submitted and accepted by Computers in Biology and Medicine.
-- 2020-10: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), doing research about applied machine learning for health care.
+- 2020-10: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), researching  applied machine learning for health care.
 
 
 
