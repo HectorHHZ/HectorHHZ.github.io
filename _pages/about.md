@@ -17,7 +17,7 @@ I am currently a second-year master's student at New York University majoring in
 News
 ======
 
-- 11- 2022: [Open-source](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)  a  general framework to implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. The paper, which proposes a novel distributed SGD algorithm, will be submitted to ICML. 
+- 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. The paper, which proposes a novel distributed SGD algorithm, will be submitted to ICML. 
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 - 09-2022: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizers for decentralized distributed machine learning systems.
