@@ -17,7 +17,7 @@ I am currently a second-year master's student at New York University majoring in
 News
 ======
 
-- 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. The paper, which proposes a novel distributed SGD algorithm, will be submitted to ICML. 
+- 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 - 09-2022: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizers for decentralized distributed machine learning systems.
@@ -55,5 +55,5 @@ Education
 Open-Source Resources
 ======
 
-- Built an **open-source/general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
+- Built an **open-source/general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms when models fit into a single machine. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
 - Build an **open-source [website](https://github.com/HectorHHZ/NYU-Course-Schedule)** for NYU EECS/DS community and help **150+** NYU students **each semester**. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!
