@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Welcome to Haoze He's personal website!
+Welcome to Haoze He's personal website! Stories start [here](https://hectorhhz.github.io/).
