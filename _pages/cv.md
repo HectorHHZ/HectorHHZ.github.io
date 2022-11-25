@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hi!"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
+Welcome to Haoze He's personal website!
