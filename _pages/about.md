@@ -52,7 +52,7 @@ Education
 
 
 
-Open-Source Resources
+Open-Source
 ======
 
 - Built an **open-source/general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms when models fit into a single machine. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
