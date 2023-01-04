@@ -45,7 +45,7 @@ Education
 ======
 
 - M.S. in Computer Engineering at New York University, 2020
-  - Current GPA: 3.9/4.0, Rank: top3%
+  - Current GPA (After 2022 Fall semester): 3.917/4.0, Rank: top3%
 - B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
 
