@@ -17,6 +17,7 @@ I am currently a second-year master's student at New York University majoring in
 News
 ======
 
+- 1-2023: I will work as a teaching assistant for NYU-GY-9343 Data Structure and Algorithm in the 2023 Spring semester.
 - 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
@@ -39,8 +40,6 @@ Publications
 
 
 
-
-
 Education
 ======
 
@@ -49,6 +48,11 @@ Education
 - B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
 
+
+Teaching
+======
+
+- 2023 Spring: Teaching assistant for NYU-GY-9343 Data Structure and Algorithm.
 
 
 
