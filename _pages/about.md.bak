@@ -16,7 +16,8 @@ I am currently a second-year master's student at New York University majoring in
 
 News
 ======
-- 1-2023: I will work as a graduate research assistant in Learning Systems Laboratory supervised by [Prof. Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) in 2023 Spring semester.
+- 1-2023：One paper submitted to International Conference on Machine Learning (ICML-2023). I 澳门
+- 1-2023: I will work as a graduate research assistant in Learning Systems Laboratory at NYU supervised by [Prof. Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) in 2023 Spring semester.
 - 1-2023: I will work as a teaching assistant for NYU-GY-9343 Data Structure and Algorithm in the 2023 Spring semester.
 - 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
 - 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
@@ -33,7 +34,7 @@ News
 Publications
 ======
 
-- **Haoze He**, Anna Choromanska, “*Local Leader Decentralized Stochastic Gradient Descent*”, International  Conference on Machine Learning (ICML), to be submitted, Nov.2022. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
+- **Haoze He**, Jing Wang, Anna Choromanska, “*Local Leader Decentralized Stochastic Gradient Descent*”, International  Conference on Machine Learning (ICML), submitted, Jan.2023. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
 - **Haoze He**, Dube Parijat, "*[Accelerating Parallel Stochastic Gradient Descent via Non-blocking Mini-batches](https://arxiv.org/abs/2211.00889)*",  Conference on Machine Learning and Systems (MLSys), Submitted, Oct.2022
 - **Haoze He**, Dube Parijat “*[RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via  Submodular Partitioning](https://arxiv.org/abs/2211.00839)*”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Submitted, Oct.2022
 - Chaoxun Guo, Zhixing Jiang, **Haoze He**, David Zhang, “*[Pulse Signal Acquisition and Analysis for Disease  Diagnosis: A review](https://www.sciencedirect.com/science/article/pii/S0010482522001044)*”, Computers in Biology and Medicine, Accepted, Nov. 2021
