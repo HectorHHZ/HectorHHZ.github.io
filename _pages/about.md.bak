@@ -16,7 +16,7 @@ I am currently a second-year master's student at New York University majoring in
 
 News
 ======
-- 1-2023：One paper submitted to International Conference on Machine Learning (ICML-2023). I 澳门
+- 1-2023：One paper submitted to International Conference on Machine Learning (ICML-2023). The paper is supervised by Prof. Anna Choromanska and I am the first author of the paper.
 - 1-2023: I will work as a graduate research assistant in Learning Systems Laboratory at NYU supervised by [Prof. Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) in 2023 Spring semester.
 - 1-2023: I will work as a teaching assistant for NYU-GY-9343 Data Structure and Algorithm in the 2023 Spring semester.
 - 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
