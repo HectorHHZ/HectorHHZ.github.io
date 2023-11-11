@@ -10,12 +10,16 @@ redirect_from:
 
 I am currently a second-year master's student at New York University majoring in Computer Engineering. I am working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) and Prof. [‪Parijat Dube‬‬](https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en). Previously, I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) advised by Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ) and [Prof. Rui Huang](https://scholar.google.com/citations?user=t8UduWwAAAAJ&hl=zh-CN&oi=ao). My research interests are distributed machine learning/ applied machine learning/ federated machine learning. Currently, My research mainly focuses on accelerating the convergence speed of distributed machine learning systems using novel system schemes and machine learning methods. I will graduate from NYU in May 2023 and intend to apply for Ph.D. ECE/CS programs. 
 
+- Next Step News: Exciting developments ahead! I am thrilled to announce that I will be embarking on a Ph.D. journey at Carnegie Mellon University, School of Computer Science, starting from the Fall Semester of 2023.
+- (This personal website is updated as of February 2023.)
+
 
 
 
 
 News
 ======
+- 2-2023:  Honored to serve as a reviewer for International Conference on Acoustics, Speech and Signal Processing(ICASSP).
 - 1-2023：One paper submitted to International Conference on Machine Learning (ICML-2023) under the supervision of Prof. Anna Choromanska. 
 - 1-2023: I will work as a graduate research assistant in Learning Systems Laboratory at NYU supervised by [Prof. Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) in 2023 Spring semester.
 - 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
