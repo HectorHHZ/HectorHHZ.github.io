@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student at New York University(NYU) majoring in Computer Engineering. I am working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) and Prof. [‪Parijat Dube‬‬](https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en). Previously, I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) advised by Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ) and [Prof. Rui Huang](https://scholar.google.com/citations?user=t8UduWwAAAAJ&hl=zh-CN&oi=ao). My research interests are distributed machine learning/ applied machine learning/ federated machine learning. Currently, My research mainly focuses on accelerating the convergence speed of distributed machine learning systems using novel system schemes and machine learning methods. I will graduate from NYU in May 2023 and intend to apply for Ph.D. ECE/CS programs. 
+I am a third-year PhD student in the School of Computer Science at Carnegie Mellon University(CMU), specializing in machine learning and computer software engineering. My research focuses on Large Language Model post-training, make the LLMs better (more align with domain specific tasks), faster (more efficient in training and inference), and cheaper (training with less GPU hours and GPU memory utilization).
 
-- Next Step News: Exciting developments ahead! I am thrilled to announce that I will be embarking on a Ph.D. journey at Carnegie Mellon University(CMU), School of Computer Science, starting from the Fall Semester of 2023.
-- (This personal website is updated as of February 2023.)
+At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Previously, I earned my master in Computer Science from New York University advised by Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) and Prof. [Parijat Dube](https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en). I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) where I worked with Prof. [David Zhang, Dapeng](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ) and [Prof. Rui Huang](https://scholar.google.com/citations?user=t8UduWwAAAAJ&hl=zh-CN&oi=ao). Before starting my PhD, My research mainly focuses on distributed machine learning system. 
+
+- (This personal website is updated as of March 2025.)
 
 
 
@@ -19,41 +20,71 @@ I am currently a second-year master's student at New York University(NYU) majori
 
 News
 ======
-- 2-2023:  Honored to serve as a reviewer for International Conference on Acoustics, Speech and Signal Processing(ICASSP).
-- 1-2023：One paper submitted to International Conference on Machine Learning (ICML-2023) under the supervision of Prof. Anna Choromanska. 
-- 1-2023: I will work as a graduate research assistant in Learning Systems Laboratory at NYU supervised by [Prof. Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) in 2023 Spring semester.
-- 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
-- 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
-- 10-2022: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
-- 09-2022: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizers for decentralized distributed machine learning systems.
-- 05-2022: I started working with Prof. [Parijat Dube](https://www.linkedin.com/in/parijatdube/). He is an adjunct professor at New York University and Columbia University, and a researcher at IBM. Our research focuses on distributed machine learning systems. 
-- 11-2021: [One paper](https://www.sciencedirect.com/science/article/pii/S0010482522001044) submitted and accepted by Computers in Biology and Medicine.
-- 10-2020: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), researching  applied machine learning for health care.
+- 5-2025:  I started my internship at AWS-AI-Labs@Amazon working on LLM post-training enabled speculative decoding via latent space reasoning.
+- 2-2025: Open-source [SMT](https://github.com/HectorHHZ/Sparse_Matrix_Tuning?tab=readme-ov-file). We implemented SMT in two frameworks: DeepSpeed and Hugging Face Trainer/PEFT.
+- 2-2025: [SMT: Fine-Tuning Large Language Models with Sparse Matrices](https://openreview.net/forum?id=GbgCRJedQ7), has been accepted by ICLR 2025.🎉🎉
+- 5-2024: [Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872) has been accepted by ECAI 2024.
+- I started my Ph.D. journey at CMU.
+- 2- 2023: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm. 
 
 
 
-
-
-Publications
+Selected Publications
 ======
+<!-- - **Haoze He**, Xingyuan Ding, Xuan Jiang, Alex Cheng, Yibo Zhao, Juncheng Billy Li, Heather Miller, "*Fine-Tuning MoE Large Language Models with Condenser Experts*", *International Conference on Learning Representations (ICLR)*, Submitted, Sept. 2025. [[paper]] -->
 
-- **Haoze He**, Jing Wang, Anna Choromanska, “*Local Leader Decentralized Stochastic Gradient Descent*”, International  Conference on Machine Learning (ICML), submitted, Jan.2023. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
-- **Haoze He**, Dube Parijat, "*[Accelerating Parallel Stochastic Gradient Descent via Non-blocking Mini-batches](https://arxiv.org/abs/2211.00889)*",  Conference on Machine Learning and Systems (MLSys), Submitted, Oct.2022
-- **Haoze He**, Dube Parijat “*[RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via  Submodular Partitioning](https://arxiv.org/abs/2211.00839)*”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Submitted, Oct.2022
-- Chaoxun Guo, Zhixing Jiang, **Haoze He**, David Zhang, “*[Pulse Signal Acquisition and Analysis for Disease  Diagnosis: A review](https://www.sciencedirect.com/science/article/pii/S0010482522001044)*”, Computers in Biology and Medicine, Accepted, Nov. 2021
+- **Haoze He**, Juncheng Billy Li, Xuan Jiang, Heather Miller, "*[Sparse Matrix in Large Language Model Fine-Tuning](https://openreview.net/forum?id=GbgCRJedQ7)*", *International Conference on Learning Representations (ICLR)*, Accepted, Jan. 2025. [[code](https://github.com/HectorHHZ/Sparse_Matrix_Tuning/)]
 
+- **Haoze He**, Jing Wang, Anna Choromanska, "*[Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872)*", *European Conference on Artificial Intelligence (ECAI)*, Accepted, June 2024. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
+
+
+*My full publication list can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=PKGTBOcAAAAJ&hl=en&oi=ao).*
+
+
+Academic Blog
+======
+- Peter Zhong, **Haoze He**, Omar Khattab, Christopher Potts, Matei Zaharia, Heather Miller, "*[A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)*", Jan. 2024.
 
 
 Education
 ======
+- Ph.D. in Machine Learning and Software Engineering at Carnegie Mellon University, 2023-present
+  - GPA: 4.16/4.0, Rank: top1%
+- M.S. in Computer Engineering at New York University, 2021-2023
+  - GPA: 3.93/4.0, Rank: top1%
+- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2016-2020
 
-- M.S. in Computer Engineering at New York University, 2020
-  - Current GPA (After 2022 Fall semester): 3.917/4.0, Rank: top3%
-- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
 
-Open-Source
+
+Internship
 ======
+- **Applied Research Scientist Intern**, *Amazon AWS AI Labs*, Summer 2025 
 
-- Built an **open-source/general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms when models fit into a single machine. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
+
+
+Awards
+======
+- **Presidential Fellowship**, *Carnegie Mellon University*, Nov. 2024  
+
+
+
+Teaching
+======
+- **Teaching Assistant**, *Large Language Model Systems (CMU 11-868)*, Spring 2025  
+
+
+Service
+======
+- **Reviewer**, *International Conference on Learning Representations (ICLR)* — 2025, 2026  
+- **Reviewer**, *International Joint Conference on Neural Networks (IJCNN)* — 2025  
+- **Reviewer**, *The Association for the Advancement of Artificial Intelligence (AAAI)* — 2025
+- **Reviewer**, *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)* — 2022 – 2025  
+- **Reviewer**, *International Conference on Computer Vision (ICCV) Workshops* — 2023
+
+
+
+
+Open-Sources for the Community
+======
 - Build an **open-source [website](https://github.com/HectorHHZ/NYU-Course-Schedule)** for NYU EECS/DS community and help **150+** NYU students **each semester**. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!
