@@ -17,7 +17,6 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 
 
-
 News
 ======
 - 5-2025:  I started my internship at AWS-AI-Labs@Amazon working on LLM post-training enabled speculative decoding via latent space reasoning.
@@ -26,6 +25,7 @@ News
 - 5-2024: [Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872) has been accepted by ECAI 2024.
 - I started my Ph.D. journey at CMU.
 - 2- 2023: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm. 
+
 
 
 
@@ -41,9 +41,13 @@ Selected Publications
 *My full publication list can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=PKGTBOcAAAAJ&hl=en&oi=ao).*
 
 
+
+<br>
+
 Academic Blog
 ======
 - Peter Zhong, **Haoze He**, Omar Khattab, Christopher Potts, Matei Zaharia, Heather Miller, "*[A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)*", Jan. 2024.
+
 
 
 Education
