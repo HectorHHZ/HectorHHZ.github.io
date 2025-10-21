@@ -21,7 +21,7 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 News
 ======
 - 5-2025:  I started my internship at AWS-AI-Labs@Amazon working on LLM post-training enabled speculative decoding via latent space reasoning.
-- 2-2025: Open-source [SMT](https://github.com/HectorHHZ/Sparse_Matrix_Tuning?tab=readme-ov-file). We implemented SMT in two frameworks: DeepSpeed and Hugging Face Trainer/PEFT.
+- 2-2025: Open-source [SMT](https://github.com/HectorHHZ/Sparse_Matrix_Tuning?tab=readme-ov-file). We implemented SMT in two frameworks: DeepSpeed and Hugging Face Trainer.
 - 2-2025: [SMT: Fine-Tuning Large Language Models with Sparse Matrices](https://openreview.net/forum?id=GbgCRJedQ7), has been accepted by ICLR 2025.🎉🎉
 - 5-2024: [Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872) has been accepted by ECAI 2024.
 - I started my Ph.D. journey at CMU.
@@ -57,34 +57,60 @@ Education
 
 
 
-Internship
-======
-- **Applied Research Scientist Intern**, *Amazon AWS AI Labs*, Summer 2025 
+<div class="collapsible-section">
+<h2 class="collapsible-header collapsed">Work Experience</h2>
+<div class="collapsible-content collapsed">
+<ul>
+<li><strong>Applied Research Scientist Intern</strong>, <em>Amazon AWS AI Labs</em>, Summer 2025</li>
+</ul>
+<ul>
+<li><strong>Teaching Assistant</strong>, <em>Carnegie Mellon University, LTI at SCS, Large Language Model Systems (11-868)</em>, Spring 2025</li>
+</ul>
+<ul>
+<li><strong>Research Assistant</strong>, <em>Carnegie Mellon University, S3D at SCS</em>, 2023 ~ present</li>
+</ul>
+<ul>
+<li><strong>Research Assistant</strong>, <em>New York University, Engineering School</em>, 2022 ~ 2023</li>
+</ul>
+</div>
+</div>
 
+<div class="collapsible-section">
+<h2 class="collapsible-header collapsed">Awards</h2>
+<div class="collapsible-content collapsed">
+<ul>
+<li><strong>Presidential Fellowship</strong>, <em>Carnegie Mellon University</em>, Nov. 2024</li>
+</ul>
+</div>
+</div>
 
+<!-- <div class="collapsible-section">
+<h2 class="collapsible-header collapsed">Teaching</h2>
+<div class="collapsible-content collapsed">
+<ul>
+<li><strong>Teaching Assistant</strong>, <em>Large Language Model Systems (CMU 11-868)</em>, Spring 2025</li>
+</ul>
+</div>
+</div> -->
 
-Awards
-======
-- **Presidential Fellowship**, *Carnegie Mellon University*, Nov. 2024  
+<div class="collapsible-section">
+<h2 class="collapsible-header">Service</h2>
+<div class="collapsible-content">
+<ul>
+<li><strong>Reviewer</strong>, <em>International Conference on Learning Representations (ICLR)</em> — 2025, 2026</li>
+<li><strong>Reviewer</strong>, <em>International Joint Conference on Neural Networks (IJCNN)</em> — 2025</li>
+<li><strong>Reviewer</strong>, <em>The Association for the Advancement of Artificial Intelligence (AAAI)</em> — 2025</li>
+<li><strong>Reviewer</strong>, <em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em> — 2022 – 2025</li>
+<li><strong>Reviewer</strong>, <em>International Conference on Computer Vision (ICCV) Workshops</em> — 2023</li>
+</ul>
+</div>
+</div>
 
-
-
-Teaching
-======
-- **Teaching Assistant**, *Large Language Model Systems (CMU 11-868)*, Spring 2025  
-
-
-Service
-======
-- **Reviewer**, *International Conference on Learning Representations (ICLR)* — 2025, 2026  
-- **Reviewer**, *International Joint Conference on Neural Networks (IJCNN)* — 2025  
-- **Reviewer**, *The Association for the Advancement of Artificial Intelligence (AAAI)* — 2025
-- **Reviewer**, *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)* — 2022 – 2025  
-- **Reviewer**, *International Conference on Computer Vision (ICCV) Workshops* — 2023
-
-
-
-
-Open-Sources for the Community
-======
-- Build an **open-source [website](https://github.com/HectorHHZ/NYU-Course-Schedule)** for NYU EECS/DS community and help **150+** NYU students **each semester**. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!
+<div class="collapsible-section">
+<h2 class="collapsible-header">Open-Sources for the Community</h2>
+<div class="collapsible-content">
+<ul>
+<li>Build an <strong>open-source <a href="https://github.com/HectorHHZ/NYU-Course-Schedule">website</a></strong> for NYU EECS/DS community and help <strong>150+</strong> NYU students <strong>each semester</strong>. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!</li>
+</ul>
+</div>
+</div>

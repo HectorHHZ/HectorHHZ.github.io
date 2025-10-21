@@ -1,0 +1,170 @@
+/* ==========================================================================
+   Custom Font Styling Overrides
+   ========================================================================== */
+
+/* 
+ * Custom font family and size adjustments
+ * This file overrides the default theme settings for better readability
+ */
+
+/* Base font size reduction for better readability */
+html {
+  font-size: 14px; /* Reduced from 16px */
+  
+  @include breakpoint($medium) {
+    font-size: 15px; /* Reduced from 18px */
+  }
+}
+
+/* Custom font family - you can change this to your preferred font */
+$custom-font-family: "Inter", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+/* Override global font family */
+body {
+  font-family: $custom-font-family;
+  font-size: 0.95em; /* Slightly smaller than default */
+  line-height: 1.6; /* Increased line height for better readability */
+}
+
+/* Page content specific adjustments */
+.page__content {
+  p, li, dl {
+    font-size: 0.9em; /* Smaller than default 1em */
+    line-height: 1.65; /* Better line spacing */
+  }
+  
+  /* Make headings more proportional */
+  h1 {
+    font-size: 1.8em; /* Slightly smaller than default */
+  }
+  
+  h2 {
+    font-size: 1.4em; /* Slightly smaller than default */
+  }
+  
+  h3 {
+    font-size: 1.2em; /* Slightly smaller than default */
+  }
+  
+  /* Adjust list items */
+  ul, ol {
+    li {
+      font-size: 0.9em;
+      margin-bottom: 0.4em; /* Tighter spacing */
+    }
+  }
+  
+  /* Better spacing for paragraphs */
+  p {
+    margin-bottom: 1.1em; /* Slightly tighter spacing */
+  }
+}
+
+/* Optional: Different font for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $custom-font-family;
+  font-weight: 600; /* Slightly lighter than bold */
+}
+
+/* Optional: Serif font for body text (uncomment if you prefer serif) */
+/*
+body {
+  font-family: "Charter", "Georgia", "Times New Roman", serif;
+}
+*/
+
+/* Optional: Monospace font for code (uncomment if you want different code font) */
+/*
+tt, code, kbd, samp, pre {
+  font-family: "Fira Code", "JetBrains Mono", "SF Mono", Monaco, Consolas, monospace;
+}
+*/
+
+/* ==========================================================================
+   Section Spacing Improvements
+   ========================================================================== */
+
+/* Better spacing between sections */
+.page__content {
+  h2 {
+    margin-top: 2.5em; /* Increased from default */
+    margin-bottom: 1em; /* Added bottom margin */
+    padding-bottom: 0.3em; /* Slightly reduced padding */
+    border-bottom: 2px solid $border-color; /* Thicker border for better separation */
+  }
+  
+  /* First h2 should have less top margin */
+  h2:first-of-type {
+    margin-top: 2em;
+  }
+  
+  /* Add space after each section's content */
+  h2 + ul,
+  h2 + p,
+  h2 + div {
+    margin-bottom: 2em; /* Space after section content */
+  }
+  
+  /* Better spacing for lists within sections */
+  ul {
+    margin-bottom: 1.5em;
+    
+    li {
+      margin-bottom: 0.6em; /* Increased from 0.4em */
+    }
+  }
+}
+
+/* Collapsible sections styling */
+.collapsible-section {
+  margin-bottom: 2em;
+  
+  .collapsible-header {
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      color: $link-color;
+    }
+    
+    &::after {
+      content: " ▼";
+      font-size: 0.8em;
+      transition: transform 0.3s ease;
+    }
+    
+    &.collapsed::after {
+      transform: rotate(-90deg);
+    }
+  }
+  
+  .collapsible-content {
+    max-height: 1000px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    opacity: 1;
+    
+    &.collapsed {
+      max-height: 0;
+      opacity: 0;
+    }
+    
+    /* Ensure proper list styling inside collapsible content */
+    ul {
+      margin: 1em 0;
+      padding-left: 1.5em;
+      
+      li {
+        margin-bottom: 0.6em;
+        line-height: 1.6;
+      }
+    }
+    
+    /* Remove default list styling if needed and add custom bullets */
+    ul li {
+      list-style-type: disc;
+      list-style-position: outside;
+    }
+  }
+}
