@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the School of Computer Science at Carnegie Mellon University(CMU), specializing in machine learning and computer software engineering. My research focuses on Large Language Model post-training, make the LLMs better (more align with domain specific tasks), faster (more efficient in training and inference), and cheaper (training with less GPU hours and GPU memory utilization).
+I am a third-year PhD student in the School of Computer Science at Carnegie Mellon University(CMU), specializing in machine learning and computer software engineering. My research focuses on **Large Language Model post-training**, make the LLMs **better** (more align with domain specific tasks), **faster** (more efficient in training and inference), and **cheaper** (training with less GPU hours and GPU memory utilization).
 
 At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Previously, I earned my master in Computer Science from New York University advised by Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) and Prof. [Parijat Dube](https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en). I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) where I worked with Prof. [David Zhang, Dapeng](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ) and [Prof. Rui Huang](https://scholar.google.com/citations?user=t8UduWwAAAAJ&hl=zh-CN&oi=ao). Before starting my PhD, My research mainly focuses on distributed machine learning system. 
 
