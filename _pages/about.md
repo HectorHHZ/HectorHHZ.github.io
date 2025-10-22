@@ -17,20 +17,19 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 
 
-News
-======
-- 5-2025:  I started my internship at AWS-AI-Labs@Amazon working on LLM post-training enabled speculative decoding via latent space reasoning.
+## News
+- 5-2025:  I will intern at AWS-AI-Labs@Amazon this summer working on LLM post-training enabled speculative decoding via latent space reasoning.
 - 2-2025: Open-source [SMT](https://github.com/HectorHHZ/Sparse_Matrix_Tuning?tab=readme-ov-file). We implemented SMT in two frameworks: DeepSpeed and Hugging Face Trainer.
-- 2-2025: [SMT: Fine-Tuning Large Language Models with Sparse Matrices](https://openreview.net/forum?id=GbgCRJedQ7), has been accepted by ICLR 2025.🎉🎉
+- 2-2025: [SMT: Fine-Tuning Large Language Models with Sparse Matrices](https://openreview.net/forum?id=GbgCRJedQ7), has been accepted by ICLR 2025.
 - 5-2024: [Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872) has been accepted by ECAI 2024.
+- 4-2024: [Multi-View Radar Autoencoder for Self-Supervised Automotive Radar Representation Learning](https://ieeexplore.ieee.org/abstract/document/10588463) has been accepted by IEEE Intelligent Vehicles Symposium (IV) 2024.
 - I started my Ph.D. journey at CMU.
-- 2- 2023: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm. 
+- 2- 2023: Open-source a  general [codebase](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm. 
 
 
 
 
-Selected Publications
-======
+## Selected Publications
 <!-- - **Haoze He**, Xingyuan Ding, Xuan Jiang, Alex Cheng, Yibo Zhao, Juncheng Billy Li, Heather Miller, "*Fine-Tuning MoE Large Language Models with Condenser Experts*", *International Conference on Learning Representations (ICLR)*, Submitted, Sept. 2025. [[paper]] -->
 
 - **Haoze He**, Juncheng Billy Li, Xuan Jiang, Heather Miller, "*[Sparse Matrix in Large Language Model Fine-Tuning](https://openreview.net/forum?id=GbgCRJedQ7)*", *International Conference on Learning Representations (ICLR)*, Accepted, Jan. 2025. [[code](https://github.com/HectorHHZ/Sparse_Matrix_Tuning/)]
@@ -44,14 +43,12 @@ Selected Publications
 
 <br>
 
-Academic Blog
-======
+## Academic Blog
 - Peter Zhong, **Haoze He**, Omar Khattab, Christopher Potts, Matei Zaharia, Heather Miller, "*[A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)*", Jan. 2024.
 
 
 
-Education
-======
+## Education
 - Ph.D. in Machine Learning and Software Engineering at Carnegie Mellon University, 2023-present
   - GPA: 4.16/4.0, Rank: top1%
 - M.S. in Computer Engineering at New York University, 2021-2023
@@ -62,8 +59,8 @@ Education
 
 
 <div class="collapsible-section">
-<h2 class="collapsible-header collapsed">Work Experience</h2>
-<div class="collapsible-content collapsed">
+<h2 class="collapsible-header">Work Experience</h2>
+<div class="collapsible-content">
 <ul>
 <li><strong>Applied Research Scientist Intern</strong>, <em>Amazon AWS AI Labs</em>, Summer 2025</li>
 </ul>
@@ -111,8 +108,10 @@ Education
 </div>
 
 <div class="collapsible-section">
-<h2 class="collapsible-header">Open-Sources for the Community</h2>
-<div class="collapsible-content">
+<!-- <h2 class="collapsible-header">Open-Sources for the Community</h2>
+<div class="collapsible-content"> -->
+<h2 class="collapsible-header collapsed">Open-Sources for the Community</h2>
+<div class="collapsible-content collapsed">
 <ul>
 <li>Build an <strong>open-source <a href="https://github.com/HectorHHZ/NYU-Course-Schedule">website</a></strong> for NYU EECS/DS community and help <strong>150+</strong> NYU students <strong>each semester</strong>. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!</li>
 </ul>
