@@ -22,7 +22,7 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 - 2026: [Less is MoE: Trimming Experts in Domain-Specialist Language Models](https://arxiv.org/abs/2606.05538) has been accepted by EMNLP 2026 (Main Conference, **oral**)! We open-sourced the [code](https://github.com/HectorHHZ/Less-is-MoE).
 - 2026: [Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning](https://arxiv.org/abs/2604.23036) has been accepted by COLM 2026! We open-sourced the [code](https://github.com/HectorHHZ/ExpertCondenser).
 - 2026: [RAST-MoE-RL: A Regime-Aware Spatio-Temporal MoE Framework for Deep Reinforcement Learning in Ride-Hailing](https://openreview.net/forum?id=xQRAo9YUQ3) has been accepted by ICML 2026.
-- 2025: I intern at AWS-AI-Labs@Amazon this summer working on LLM post-training enabled speculative decoding via latent space reasoning.
+- 2025: I interned at AWS-AI-Labs@Amazon explored LLM post-training enabled speculative decoding via loop transformers latent space reasoning.
 - 2025: Open-source [SMT](https://github.com/HectorHHZ/Sparse_Matrix_Tuning?tab=readme-ov-file). We implemented SMT in two frameworks: DeepSpeed and Hugging Face Trainer.
 - 2025: [SMT: Fine-Tuning Large Language Models with Sparse Matrices](https://openreview.net/forum?id=GbgCRJedQ7) has been accepted by ICLR 2025.
 - 2024: [Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872) has been accepted by ECAI 2024.
@@ -56,16 +56,6 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 
 
-## Education
-- Ph.D. in Machine Learning and Software Engineering at Carnegie Mellon University, 2023-present
-  - GPA: 4.16/4.0, Rank: top1%
-- M.S. in Computer Engineering at New York University, 2021-2023
-  - GPA: 3.93/4.0, Rank: top1%
-- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2016-2020
-
-
-
-
 <div class="collapsible-section">
 <h2 class="collapsible-header">Work Experience</h2>
 <div class="collapsible-content">
@@ -83,15 +73,6 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 </ul>
 <ul>
 <li><strong>Research Assistant</strong>, <em>New York University, Engineering School</em>, 2022 ~ 2023</li>
-</ul>
-</div>
-</div>
-
-<div class="collapsible-section">
-<h2 class="collapsible-header collapsed">Awards</h2>
-<div class="collapsible-content collapsed">
-<ul>
-<li><strong>Presidential Fellowship</strong>, <em>Carnegie Mellon University</em>, Nov. 2024</li>
 </ul>
 </div>
 </div>
@@ -128,6 +109,34 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 <div class="collapsible-content collapsed">
 <ul>
 <li>Build an <strong>open-source <a href="https://github.com/HectorHHZ/NYU-Course-Schedule">website</a></strong> for NYU EECS/DS community and help <strong>150+</strong> NYU students <strong>each semester</strong>. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!</li>
+</ul>
+</div>
+</div>
+
+<div class="collapsible-section">
+<h2 class="collapsible-header collapsed">Education</h2>
+<div class="collapsible-content collapsed">
+<ul>
+<li>Ph.D. in Machine Learning and Software Engineering at Carnegie Mellon University, 2023-present
+<ul>
+<li>GPA: 4.16/4.0, Rank: top1%</li>
+</ul>
+</li>
+<li>M.S. in Computer Engineering at New York University, 2021-2023
+<ul>
+<li>GPA: 3.93/4.0, Rank: top1%</li>
+</ul>
+</li>
+<li>B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2016-2020</li>
+</ul>
+</div>
+</div>
+
+<div class="collapsible-section">
+<h2 class="collapsible-header collapsed">Awards</h2>
+<div class="collapsible-content collapsed">
+<ul>
+<li><strong>Presidential Fellowship</strong>, <em>Carnegie Mellon University</em>, Nov. 2024</li>
 </ul>
 </div>
 </div>
