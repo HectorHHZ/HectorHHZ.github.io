@@ -38,7 +38,7 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 - **Haoze He**\*, Xinkai Zou\*, Xuan Jiang, Xingyuan Ding, Ao Qu, Juncheng Billy Li, Heather Miller, "*[Less is MoE: Trimming Experts in Domain-Specialist Language Models](https://arxiv.org/abs/2606.05538)*", *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*, Accepted **(oral)**, 2026. [[code](https://github.com/HectorHHZ/Less-is-MoE)]
 
-- **Haoze He**, Xingyuan Ding, Xuan Jiang, Alex Cheng, Yibo Zhao, Juncheng Billy Li+, Heather Miller+, "*[Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning](https://arxiv.org/abs/2604.23036)*", *Conference on Language Modeling (COLM)*, Published, 2026. [[code](https://github.com/HectorHHZ/ExpertCondenser)]
+- **Haoze He**, Xingyuan Ding, Xuan Jiang, Xinkai Zou, Alex Cheng, Yibo Zhao, Juncheng Billy Li+, Heather Miller+, "*[Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning](https://arxiv.org/abs/2604.23036)*", *Conference on Language Modeling (COLM)*, Published, 2026. [[code](https://github.com/HectorHHZ/ExpertCondenser)]
 
 - Yuhan Tang\*, Kangxin Cui\*, Jung Ho Park\*, Yibo Zhao\*, Xuan Jiang+, **Haoze He**+, Jiangbo Yu, Haris Koutsopoulos, Jinhua Zhao, "*[RAST-MoE-RL: A Regime-Aware Spatio-Temporal MoE Framework for Deep Reinforcement Learning in Ride-Hailing](https://openreview.net/forum?id=xQRAo9YUQ3)*", *International Conference on Machine Learning (ICML)*, Accepted, 2026.
 
