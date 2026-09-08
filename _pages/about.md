@@ -19,7 +19,7 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 ## News
 - 2026: I start my internship at Google DeepMind, hosted by Samira Khan and Majid Hadian (Gemini Long Context) and Yu Gan and Arvind Krishnamurthy (SRG).
-- 2026: [Less is MoE: Trimming Experts in Domain-Specialist Language Models](https://arxiv.org/abs/2606.05538) has been accepted by EMNLP 2026 (Main Conference)!
+- 2026: [Less is MoE: Trimming Experts in Domain-Specialist Language Models](https://arxiv.org/abs/2606.05538) has been accepted by EMNLP 2026 (Main Conference, **oral**)! We open-sourced the [code](https://github.com/HectorHHZ/Less-is-MoE).
 - 2026: [Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning](https://arxiv.org/abs/2604.23036) has been accepted by COLM 2026! We open-sourced the [code](https://github.com/HectorHHZ/ExpertCondenser).
 - 2026: [RAST-MoE-RL: A Regime-Aware Spatio-Temporal MoE Framework for Deep Reinforcement Learning in Ride-Hailing](https://openreview.net/forum?id=xQRAo9YUQ3) has been accepted by ICML 2026.
 - 2025: I intern at AWS-AI-Labs@Amazon this summer working on LLM post-training enabled speculative decoding via latent space reasoning.
@@ -34,7 +34,7 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 ## Selected Publications
 
-- **Haoze He**\*, Xinkai Zou\*, Xuan Jiang, Xingyuan Ding, Ao Qu, Juncheng Billy Li, Heather Miller, "*[Less is MoE: Trimming Experts in Domain-Specialist Language Models](https://arxiv.org/abs/2606.05538)*", *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*, Accepted, 2026.
+- **Haoze He**\*, Xinkai Zou\*, Xuan Jiang, Xingyuan Ding, Ao Qu, Juncheng Billy Li, Heather Miller, "*[Less is MoE: Trimming Experts in Domain-Specialist Language Models](https://arxiv.org/abs/2606.05538)*", *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*, Accepted **(oral)**, 2026. [[code](https://github.com/HectorHHZ/Less-is-MoE)]
 
 - **Haoze He**, Xingyuan Ding, Xuan Jiang, Alex Cheng, Yibo Zhao, Juncheng Billy Li+, Heather Miller+, "*[Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning](https://arxiv.org/abs/2604.23036)*", *Conference on Language Modeling (COLM)*, Published, 2026. [[code](https://github.com/HectorHHZ/ExpertCondenser)]
 
@@ -42,7 +42,7 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 - **Haoze He**\*, Juncheng Billy Li\*, Xuan Jiang, Heather Miller, "*[Sparse Matrix in Large Language Model Fine-Tuning](https://openreview.net/forum?id=GbgCRJedQ7)*", *International Conference on Learning Representations (ICLR)*, Accepted, Jan. 2025. [[code](https://github.com/HectorHHZ/Sparse_Matrix_Tuning/)]
 
-- **Haoze He**\*, Jing Wang\*, Anna Choromanska, "*[Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872)*", *European Conference on Artificial Intelligence (ECAI)*, Accepted, June 2024. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
+- **Haoze He**\*, Jing Wang\*, Anna Choromanska, "*[Adjacent Leader Decentralized Stochastic Gradient Descent](https://ebooks.iospress.nl/volumearticle/69872)*", *European Conference on Artificial Intelligence (ECAI)*, Accepted **(oral)**, June 2024. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
 
 
 *My full publication list can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=PKGTBOcAAAAJ&hl=en&oi=ao). (\*: equal contribution; +: corresponding author)*
