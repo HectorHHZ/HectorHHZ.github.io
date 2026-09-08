@@ -51,11 +51,6 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 
 <br>
 
-## Academic Blog
-- Peter Zhong, **Haoze He**, Omar Khattab, Christopher Potts, Matei Zaharia, Heather Miller, "*[A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)*", Jan. 2024.
-
-
-
 <div class="collapsible-section">
 <h2 class="collapsible-header">Work Experience</h2>
 <div class="collapsible-content">
@@ -76,6 +71,9 @@ At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Prev
 </ul>
 </div>
 </div>
+
+## Academic Blog
+- Peter Zhong, **Haoze He**, Omar Khattab, Christopher Potts, Matei Zaharia, Heather Miller, "*[A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)*", Jan. 2024.
 
 <!-- <div class="collapsible-section">
 <h2 class="collapsible-header collapsed">Teaching</h2>
