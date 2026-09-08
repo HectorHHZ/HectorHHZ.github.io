@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /categories/
+  - /category-archive/
 ---
 
 I am a third-year PhD student in the School of Computer Science at Carnegie Mellon University(CMU) and Student Researcher at Google DeepMind. My research focuses on **Large Language Model post-training**, make the LLMs **faster** (more efficient in training and inference), and **cheaper** (training with less GPUs/GPU hours and cheaper to deployment), and **better** (more align with domain specific tasks and users).
