@@ -10,7 +10,7 @@ redirect_from:
   - /category-archive/
 ---
 
-I am a third-year PhD student in the School of Computer Science at Carnegie Mellon University(CMU) and Student Researcher at Google DeepMind. My research focuses on **Large Language Model post-training**, make the LLMs **faster** (more efficient in training and inference), and **cheaper** (training with less GPUs/GPU hours and cheaper to deployment), and **better** (more align with domain specific tasks and users).
+I am a fourth-year PhD student in the School of Computer Science at Carnegie Mellon University(CMU) and Student Researcher at Google DeepMind. My research focuses on **Large Language Model post-training**, make the LLMs **faster** (more efficient in training and inference), and **cheaper** (training with less GPUs/GPU hours and cheaper to deployment), and **better** (more align with domain specific tasks and users).
 
 At CMU, I am advised by Prof. [Heather Miller](https://heather.miller.am/). Previously, I earned my master in Computer Science from New York University and my master thesis is supervised by Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK). Before starting my PhD, My research mainly focuses on distributed machine learning system. 
 
